@@ -1,4 +1,4 @@
-# Ethical AI Credit Decision Demo
+# Ethical AI in Banking - Building Trust and Transparency
 
 Simple demo of a credit approval system with three views:
 
